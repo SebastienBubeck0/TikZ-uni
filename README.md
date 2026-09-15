@@ -1,4 +1,6 @@
-# 🦄 Uni the Unicorn
+#  Uni
+
+<img src="https://i.ibb.co/xKtMRn2C/HRT8-Hpca-IAAV6-F.webp" alt="Chucho" width="100" />
 
 Draw pictures by **writing code** instead of using a mouse.
 
