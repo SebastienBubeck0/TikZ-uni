@@ -9,7 +9,7 @@ Uni is a tiny Python library. You describe a picture with instructions like *dra
 ```
 your Python code  →  uni.py  →  uni.tex (TikZ)  →  pdflatex  →  uni.pdf (vector)
 ```
-
+ 
 ## The four files
 
 | File | What it is |
