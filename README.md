@@ -63,8 +63,27 @@ d.curve((2.6, 1.6), (3.5, 1.6), bend=-0.5)               # a smile
 
 d.compile("tiny.tex")
 ```
+<p>
 
-## Why TikZ?
+  <img src="https://i.ibb.co/cS7sG1k4/GPTfox.png" alt="GPTfox" width="100" />
+
+  <img src="https://i.ibb.co/v8QN0ZH/GPTelephant.png" alt="GPTelephant" width="100" />
+
+  <img src="https://i.ibb.co/FkbCRZwv/GPTpenguin.png" alt="GPTpenguin" width="100" />
+
+  <img src="https://i.ibb.co/N682hnkd/GPTpanda.png" alt="GPTkoala" width="100" />
+
+  <img src="https://i.ibb.co/N682hnkd/GPTpanda.png" alt="GPTpanda" width="100" />
+
+ <img src="https://i.ibb.co/vxXKNHz8/GPTinu.png" alt="GPTinu" width="100" />
+
+  <img src="https://i.ibb.co/hF8wBCbm/GPTbunny.png" alt="GPTbunny" width="100" />
+
+  <img src="https://i.ibb.co/Ps780CY0/GPTcat.png" alt="GPTcat" width="100" />
+
+</p>
+
+## What's different about TikZ?
 
 TikZ output is plain text, so your drawings are diff-able in Git, reproducible, and easy to tweak by changing a number. The PDF is vector, so it stays sharp at any size, and you can drop the `.tex` straight into papers or slides.
 
